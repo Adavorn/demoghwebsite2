@@ -1,5 +1,5 @@
 # project discription
-demo git hub website 1
+demo git hub website 2
 
 # author
 - Jacob King
@@ -11,7 +11,7 @@ demo git hub website 1
 - boostrap
 
 # github code repository
-- https://github.com/Adavorn/demogh-website-1.git
+- https://github.com/Adavorn/demoghwebsite2.git
 
 # github website url
 - n/a
