@@ -14,7 +14,7 @@ demo git hub website 2
 - https://github.com/Adavorn/demoghwebsite2.git
 
 # github website url
-- n/a
+- https://adavorn.github.io/demoghwebsite2/
 
 # futur improvements
 - add responsive nav menu
